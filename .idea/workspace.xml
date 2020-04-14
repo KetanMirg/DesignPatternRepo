@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6b4ab33-3fc2-4402-b933-64f6c4323700" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XyZTtQD3X2aak3LtZpPq4PGytc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../git/gitRepo/gradleRepo/gradleProject" />
+  </component>
+  <component name="RunManager" selected="Application.DemoChainOfResponsibility">
+    <configuration name="BuilderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dp.creational.builder.BuilderDemo" />
+      <module name="designpatterns.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dp.creational.builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoChainOfResponsibility" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dp.behavioural.chainofresponsibilty.DemoChainOfResponsibility" />
+      <module name="designpatterns.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dp.behavioural.chainofresponsibilty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EventSource" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dp.behavioural.observer.EventSource" />
+      <module name="designpatterns.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dp.behavioural.observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrategyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dp.behavioural.strategy.StrategyDemo" />
+      <module name="designpatterns.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dp.behavioural.strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DemoChainOfResponsibility" />
+        <item itemvalue="Application.EventSource" />
+        <item itemvalue="Application.StrategyDemo" />
+        <item itemvalue="Application.BuilderDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6b4ab33-3fc2-4402-b933-64f6c4323700" name="Default Changelist" comment="" />
+      <created>1582020305801</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582020305801</updated>
+      <workItem from="1582020316146" duration="6759000" />
+      <workItem from="1582104181375" duration="591000" />
+      <workItem from="1582523028749" duration="5049000" />
+      <workItem from="1583491792619" duration="60000" />
+      <workItem from="1584611794145" duration="1162000" />
+      <workItem from="1584944282944" duration="1188000" />
+      <workItem from="1586857223353" duration="1316000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="53" key="#com.intellij.ide.util.MemberChooser" timestamp="1586858008425">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="446" y="53" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1586858008425" />
+    <state x="396" y="55" key="#xdebugger.evaluate" timestamp="1582045894256">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="396" y="55" key="#xdebugger.evaluate/0.0.1280.689@0.0.1280.689" timestamp="1582045894256" />
+    <state x="421" y="103" key="FileChooserDialogImpl" timestamp="1583430949025">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="103" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1583430949025" />
+    <state width="1222" height="163" key="GridCell.Tab.0.bottom" timestamp="1586858200517">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1222" height="163" key="GridCell.Tab.0.bottom/0.0.1280.689/1920.0.1920.1170@0.0.1280.689" timestamp="1582692939536" />
+    <state width="1222" height="163" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1586858200517" />
+    <state width="1222" height="163" key="GridCell.Tab.0.center" timestamp="1586858200516">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1222" height="163" key="GridCell.Tab.0.center/0.0.1280.689/1920.0.1920.1170@0.0.1280.689" timestamp="1582692939536" />
+    <state width="1222" height="163" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1586858200516" />
+    <state width="1222" height="163" key="GridCell.Tab.0.left" timestamp="1586858200516">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1222" height="163" key="GridCell.Tab.0.left/0.0.1280.689/1920.0.1920.1170@0.0.1280.689" timestamp="1582692939536" />
+    <state width="1222" height="163" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1586858200516" />
+    <state width="1222" height="163" key="GridCell.Tab.0.right" timestamp="1586858200517">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1222" height="163" key="GridCell.Tab.0.right/0.0.1280.689/1920.0.1920.1170@0.0.1280.689" timestamp="1582692939536" />
+    <state width="1222" height="163" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1586858200517" />
+    <state width="1237" height="208" key="GridCell.Tab.1.bottom" timestamp="1582046112390">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1582046112390" />
+    <state width="1237" height="208" key="GridCell.Tab.1.center" timestamp="1582046112390">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1582046112390" />
+    <state width="1237" height="208" key="GridCell.Tab.1.left" timestamp="1582046112389">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1582046112389" />
+    <state width="1237" height="208" key="GridCell.Tab.1.right" timestamp="1582046112390">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1582046112390" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/util/Observable.java</url>
+          <line>151</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dp/behavioural/observer/EventSource.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dp/behavioural/observer/MyObserver.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/util/Observable.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
